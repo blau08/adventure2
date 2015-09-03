@@ -1,10 +1,7 @@
 development:
   adapter: postgresql
   database: text_adventure_development
-  host:localhost
-
 
 test:
   adapter: postgresql
   database: text_adventure_test
-  host:localhost
